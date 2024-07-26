@@ -8,8 +8,11 @@ Be the first player to reach 100 points.
 
 # Gameplay:
 Players take turns rolling a single die as many times as they wish, adding the rolled value to a running total for their turn.
+
 A player's turn ends when they either:
+
 Choose to "hold," adding their turn total to their overall score, or
+
 Roll a 1, which ends their turn and forfeits the turn total (they score nothing for that turn).
 
 
