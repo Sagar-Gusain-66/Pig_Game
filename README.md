@@ -1,7 +1,6 @@
 # Pig_Game:
 The Pig game is a simple dice game often played by two players. The goal is to be the first to reach 100 points. 
 
-
 Here are the basic rules:
 
 # Objective: 
