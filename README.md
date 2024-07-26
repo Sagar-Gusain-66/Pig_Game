@@ -16,7 +16,7 @@ Choose to "hold," adding their turn total to their overall score, or
 Roll a 1, which ends their turn and forfeits the turn total (they score nothing for that turn).
 
 
-Turn Mechanics:
+# Turn Mechanics:
 
 On each turn, a player rolls the die.
 
