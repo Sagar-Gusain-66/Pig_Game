@@ -14,8 +14,11 @@ Roll a 1, which ends their turn and forfeits the turn total (they score nothing 
 Turn Mechanics:
 
 On each turn, a player rolls the die.
+
 -> If the player rolls a 1, their turn ends and their turn total becomes 0.
+
 -> If the player rolls any other number (2-6), the number is added to their turn total, and they can choose to either roll again or hold.
+
 -> If the player holds, their turn total is added to their overall score, and it becomes the next player's turn.
 
 # Winning the Game:
